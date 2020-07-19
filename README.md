@@ -22,7 +22,7 @@ Node JS: https://nodejs.org/
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
 ```
-https://github.com/WilferSalas/CRMClientes.git
+$ git clone https://github.com/WilferSalas/CRMGrapQL.git
 ```
 
 ```
