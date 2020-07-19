@@ -40,8 +40,9 @@ $ npm run dev
 
 * [React](https://reactjs.org/)
 * [Next](https://nextjs.org/)
-* [Material UI](https://material-ui.com/)
 * [Apollo](https://www.apollographql.com/)
+* [Material UI](https://material-ui.com/)
+* [Sweet alert 2 UI](https://sweetalert2.github.io/)
 
 ## Autores ✒️
 
