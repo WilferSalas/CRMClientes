@@ -1,31 +1,57 @@
-# Next.js example
+# Front-end CRM Clientes con React JS
 
-## How to use
+_Front del CRM Clientes hecho con React, Next, Material UI y Apollo_
 
-Download the example [or clone the repo](https://github.com/mui-org/material-ui):
+## Comenzando 🚀
 
-```sh
-curl https://codeload.github.com/mui-org/material-ui/tar.gz/master | tar -xz --strip=2  material-ui-master/examples/nextjs
-cd nextjs
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+
+Mira **Deployment** para conocer como desplegar el proyecto.
+
+
+### Pre-requisitos 📋
+
+_Que cosas necesitas para instalar el software y como instalarlas_
+
+```
+Node JS: https://nodejs.org/
 ```
 
-Install it and run:
+### Instalación 🔧
 
-```sh
-npm install
-npm run dev
+_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+
+```
+https://github.com/WilferSalas/CRMClientes.git
 ```
 
-or:
+```
+$ npm install
+```
 
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui-org/material-ui/tree/master/examples/nextjs)
+```
+$ npm run dev
+```
 
-## The idea behind the example
+## Construido con 🛠️
 
-[Next.js](https://github.com/zeit/next.js) is a framework for server-rendered React apps.
+* [React](https://graphql.org/)
+* [Next](https://www.apollographql.com/)
+* [Material UI](https://www.mongodb.com/)
+* [Apollo](https://www.apollographql.com/)
 
-## Troubleshooting
+## Autores ✒️
 
-### `Warning: Prop className did not match.`
+* **Wilfer Salas** - [WilferSalas](https://github.com/WilferSalas)
 
-If you get this warning, please make sure that you configure `getInitialProps` in `pages/_document.js` correctly. Check the code in this example for more details.
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 o un café ☕ 
+* Da las gracias públicamente 🤓.
+* etc.
+
+
+
+---
+⌨️ con ❤️ por [WilferSalas](https://github.com/WilferSalas) 😊
