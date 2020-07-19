@@ -1,6 +1,6 @@
 # Front-end CRM Clientes con React JS
 
-_Front del CRM Clientes hecho con React, Next, Material UI y Apollo_
+_Front-end del CRM Clientes hecho con React, Next, Material UI y Apollo_
 
 ## Comenzando 🚀
 
