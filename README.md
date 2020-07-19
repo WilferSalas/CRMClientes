@@ -33,6 +33,9 @@ $ npm install
 $ npm run dev
 ```
 
+![Alt Text](https://s7.gifyu.com/images/CRM-1.gif)
+
+
 ## Construido con 🛠️
 
 * [React](https://reactjs.org/)
