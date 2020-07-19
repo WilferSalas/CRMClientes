@@ -35,9 +35,9 @@ $ npm run dev
 
 ## Construido con 🛠️
 
-* [React](https://graphql.org/)
-* [Next](https://www.apollographql.com/)
-* [Material UI](https://www.mongodb.com/)
+* [React](https://reactjs.org/)
+* [Next](https://nextjs.org/)
+* [Material UI](https://material-ui.com/)
 * [Apollo](https://www.apollographql.com/)
 
 ## Autores ✒️
@@ -46,8 +46,8 @@ $ npm run dev
 
 ## Expresiones de Gratitud 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ 
+* Comenta a otros sobre este proyecto 📢.
+* Invita una cerveza 🍺 o un café ☕.
 * Da las gracias públicamente 🤓.
 * etc.
 
