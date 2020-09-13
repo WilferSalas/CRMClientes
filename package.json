@@ -14,7 +14,7 @@
     "formik": "^2.1.4",
     "graphql": "^14.7.0",
     "next": "latest",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "numeral": "^2.0.6",
     "prop-types": "latest",
     "react": "latest",
